@@ -1,5 +1,4 @@
-Developed by : Ananda Rauf Maududi
-Developed date : 16 September 2020
+Flowchart untuk Statistika.
 -----------------------------------------------------------------------------------------------------------------------
 
 Flowchart Aplikasi, Web, Desktop, dan Android.
@@ -22,3 +21,6 @@ Silahkan diberikan sejumlah uang berupa donasi agar dapat membantu saya meningka
 
 ![alt text](https://raw.githubusercontent.com/AnandaRauf/Flowchart-penilaian-nilai-akhir-rata-rendah-tinggi-mhs/master/OvoCash.jpg)
 ![alt text](https://raw.githubusercontent.com/AnandaRauf/Flowchart-penilaian-nilai-akhir-rata-rendah-tinggi-mhs/master/Dana.jpg)
+
+Developed by : Ananda Rauf Maududi
+Developed date : 16 September 2020
