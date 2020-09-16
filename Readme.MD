@@ -19,7 +19,7 @@ Flowchart ini open source untuk kalian tugas menjadi mudah maupun berkarya dan m
 
 Donasi untuk saya beli kopi, makanan cemilan, dan biaya kuliah, jika anda mendapatkan penghasilan dari flowchart ini :
 
-!(alttext)[link url Ovocash]
+!(alttext)(https://raw.githubusercontent.com/AnandaRauf/Flowchart-penilaian-nilai-akhir-rata-rendah-tinggi-mhs/master/OvoCash.jpg)
 !(alttext)[link url Dana]
 
 
